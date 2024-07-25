@@ -9,6 +9,3 @@ The objective of this assignment is to demonstrate the use of media queries to c
 - HTML5
 - CSS3
 
-## Live Demo
-
-[Media Query Assignment](https://divyam-kumar-pandey.github.io/Media-Query-Assignment2/)
